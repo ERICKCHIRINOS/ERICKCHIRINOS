@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**GucciGang15/GucciGang15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm GucciGang15 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Student | Software Development
+
+Building projects. Learning every day.
+
+<br>
+
+<img src="./info-card.svg" alt="Profile information card" width="760">
+
+<br>
+
+<img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="760">
+
+</div>
