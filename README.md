@@ -1,17 +1,22 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="760">
+<!-- CONTRIBUTION HEATMAP -->
+<img src="./contrib-heatmap.svg" alt="GitHub contribution activity" width="100%">
 
 <br>
 
-<table>
+<!-- PROFILE DASHBOARD -->
+<table width="100%">
   <tr>
-    <td width="55%" align="center" valign="middle">
-      <img src="./info-card.svg" alt="Profile information card" width="100%">
+    <!-- LEFT: PROFILE INFORMATION -->
+    <td width="50%" align="center" valign="middle">
+      <img src="./info-card.svg" alt="GucciGang15 profile information" width="100%">
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./assets/source-photo.png" alt="My profile portrait" width="100%">
+
+    <!-- RIGHT: PROFILE PORTRAIT -->
+    <td width="50%" align="center" valign="middle">
+      <img src="./assets/source-photo.png" alt="GucciGang15 portrait" width="100%">
     </td>
   </tr>
 </table>
